@@ -7,7 +7,7 @@
 
 ---
 
-<h2 align="center">🙋‍♂️ About Me</h2>
+<h2 align="center"> About Me</h2>
 
 <p align="center">
 I’m a  Software Developer from India, with a love for exploring cutting-edge technologies, diving deep into programming languages, and creating scalable, efficient solutions. My interests span from backend development to DevOps and system design.
