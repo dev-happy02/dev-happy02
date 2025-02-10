@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">👋 Hello, I'm Happy Swaraj</h1>
 
-<!--
-**happy0002/happy0002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://www.linkedin.com/in/happyswaraj?/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/shitcodebykaushik" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:algorithmunloack@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">🙋‍♂️ About Me</h2>
+
+<p align="center">
+I’m a  Software Developer from India, with a love for exploring cutting-edge technologies, diving deep into programming languages, and creating scalable, efficient solutions. My interests span from backend development to DevOps and system design.
+</p>
+
+- 🔭 **Current Projects:** Python, React Native.  
+- 👯 **Looking to Collaborate:** React, Java and Open Source projects.  
+- 🌱 **Currently Learning:** DevOps practices, Kubernetes, and CI/CD pipelines.  
+- 💬 **Ask Me About:** JavaScript, Rust, and DevOps tools.  
+- 📫 **Contact Me:** @gmail.com  
+- ⚡ **Fun Fact:** I believe that every solution starts with curiosity—*spin the wheel and see where it leads!*  
+
+---
+
+<h2 align="center">🔧 Technologies & Tools</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=go,rust,cpp,python,js,html,css,bash,nodejs,react,nextjs,redux,express,mongodb,postgres,redis,docker,kubernetes,jenkins,git,github,linux,vercel,postman,vscode,regex,reactnative&theme=dark" alt="Tech Stack" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=happy0002&show_icons=true&theme=tokyonight" alt="Happy GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=happy0002&theme=tokyonight" alt="GitHub Streak" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happy0002&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+---
+
+<h2 align="center">🏆 Achievements</h2>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=happy0002&theme=juicyfresh&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h2 align="center">📈 Activity Graph</h2>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=happy0002&theme=tokyo-night" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+
+
+---
+
+<h2 align="center">🎯 Summary Cards</h2>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=happy0002&theme=tokyonight" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=happy0002&theme=tokyonight" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=happy0002&theme=tokyonight" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happy0002&theme=tokyonight" height="150" />
+</div>
+
+---
+
+<h2 align="center">💡 Fun Activity</h2>
+<p align="center">Here’s a random programming joke for you:</p>
+<p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
