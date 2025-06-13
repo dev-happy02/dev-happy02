@@ -31,16 +31,6 @@ I’m a  Software Developer from India, with a love for exploring cutting-edge t
 ---
 
 
-
----
-
-<h2 align="center">🏆 Achievements</h2>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=happy0002&theme=juicyfresh&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
 <h2 align="center">📈 Activity Graph</h2>
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=happy0002&theme=tokyo-night" alt="GitHub Contribution Graph" />
