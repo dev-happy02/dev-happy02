@@ -17,7 +17,7 @@ I’m a  Software Developer from India, with a love for exploring cutting-edge t
 - 👯 **Looking to Collaborate:** React, Java and Open Source projects.  
 - 🌱 **Currently Learning:** DevOps practices, Kubernetes, and CI/CD pipelines.  
 - 💬 **Ask Me About:** JavaScript, Rust, and DevOps tools.  
-- 📫 **Contact Me:** @gmail.com  
+- 📫 **Contact Me:happyswaraj7667@gmail.com  
 - ⚡ **Fun Fact:** I believe that every solution starts with curiosity—*spin the wheel and see where it leads!*  
 
 ---
