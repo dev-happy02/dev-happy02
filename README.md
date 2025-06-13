@@ -30,15 +30,7 @@ I’m a  Software Developer from India, with a love for exploring cutting-edge t
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=happy0002&show_icons=true&theme=tokyonight" alt="Happy GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=happy0002&theme=tokyonight" alt="GitHub Streak" />
-</div>
-<br />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happy0002&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+
 
 ---
 
