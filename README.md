@@ -33,7 +33,7 @@ I’m a  Software Developer from India, with a love for exploring cutting-edge t
 
 <h2 align="center">📈 Activity Graph</h2>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=happy0002&theme=tokyo-night" alt="GitHub Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-happy02&theme=tokyo-night" alt="GitHub Contribution Graph" />
 </p>
 
 ---
