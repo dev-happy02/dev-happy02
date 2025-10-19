@@ -44,10 +44,10 @@ I’m a  Software Developer from India, with a love for exploring cutting-edge t
 
 <h2 align="center">🎯 Summary Cards</h2>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=happy0002&theme=tokyonight" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=happy0002&theme=tokyonight" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=happy0002&theme=tokyonight" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happy0002&theme=tokyonight" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-happy02&theme=tokyonight" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-happy02&theme=tokyonight" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-happy02&theme=tokyonight" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-happy02&theme=tokyonight" height="150" />
 </div>
 
 ---
